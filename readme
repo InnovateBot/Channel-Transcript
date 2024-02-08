@@ -1,0 +1,6 @@
+How to use this command on Your Bot 
+
+First Step do npm i discord-html-transcripts
+As this package is need for the command to work
+
+coppy this code to your bot or download the file and drop it into your slash command  folder 
